@@ -1,0 +1,157 @@
+body{
+    padding: 0;
+}
+table {
+    font-size: 13px;
+}
+
+table.table.table-striped.table-bordered.datatable.dataTable tr {
+    color: #607D8B;
+}
+
+table.table.table-striped.table-bordered.datatable.dataTable td {
+    line-height: 50px;
+    text-align: center;
+}
+tr th {
+    text-transform: uppercase;
+}
+*{padding: 0;}
+
+.dropdown-content {
+    padding-bottom: 10px;
+}
+
+.dropdown {
+    border-bottom: 1px solid gainsboro;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 13px;
+    font-size: 12px;
+    text-decoration: none !important;
+}
+
+tbody {
+    background: whitesmoke !important;
+}
+
+.form-group.theme {
+    font-size: 13px;
+    height: auto;
+    background: whitesmoke;
+    padding: 33px;
+    margin-top: 19px;
+}
+
+.form-group.theme button {
+    margin-top: 12px;
+    height: 33px;
+    font-size: 13px;
+}
+
+.form-group.theme select {
+    font-size: 14px;
+    height: 37px;
+}
+
+button.btn.btn-link a {
+    font-size: 12px;
+}
+
+button.btn.btn-warning {
+    color: white;
+    font-size: 13px;
+    font-weight: 300;
+    padding: 4px;
+}
+
+tr img {
+    width: 50px;
+    margin: 11px;
+}
+
+.row.bot .box {
+    padding: 0;
+    margin-top: 16px;
+    background: whitesmoke;
+}
+
+.box.header {
+    padding-left: 6px !important;
+}
+
+ul.box {
+    background: whitesmoke;
+}
+
+.row.bot .box span a {
+    color: black;
+    text-decoration: none;
+}
+
+ul.box li {
+    width: 100%;
+    display: block;
+    background: whitesmoke;
+}
+
+ul.box li i {
+    font-size: 27px;
+    margin: 10px;
+}
+
+ul.box li a {float: right;
+    padding-top: 7px;display: inline-block;width: 82%;}
+
+ul.box li a:hover {
+    color: #009688;
+}
+
+.row.bot ul li {
+    font-size: 13px;
+    list-style: none;
+}
+
+.col-sm-4 button {
+    width: 100%;
+    font-size: 15px;
+    padding: 6px;
+    margin-top: 17px;
+}
+
+button.btn.btn-default {
+    margin-top: 4px;
+}
+
+.box {
+    font-size: 12px;
+    border-radius: 3px;
+    padding: 13px;
+}
+
+.box span {
+    position: absolute;
+    line-height: 70px;
+    font-weight: 700;
+    padding-left: 12px;
+}
+
+span.length {
+    position: absolute;
+    top: 15px;
+    color: white;
+    font-size: 21px;
+    left: 12%;
+}
+
+.box .blue {
+    color: darkturquoise;
+}
+
+.box .red {color: #FF9800;}
+
+.box i {
+    font-size: 80px;
+}
